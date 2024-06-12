@@ -1,0 +1,13 @@
+sno 1
+page link url https://www.msuniv.ac.in/facility_health_center.php
+test time 13.06pm
+test date 12.06.2024
+result fail
+description 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+2024-06-12 13:05:56.079 INFO  c.k.k.core.main.WSVerificationExecutor   - END Verification
